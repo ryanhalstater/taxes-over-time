@@ -6,6 +6,7 @@
   - There was no Married Filing Jointly tax bracket information available from 1949 to 1954
 - Inflation data sourced from https://fred.stlouisfed.org/series/CPIAUCNS
   - The yearly inflation index used was the index's value in January of that year
+  - Assumed inflation index for 2021 was the same as 2020 (2021 inflation not available at time)
 - Python used to scrape yearly data and convert all money to present value (accounting for inflation)
   - Python's Pandas used to clean yearly data and inflation data
   - Marginal Tax Rate determined for multiple income levels using tax cutoffs (in present value) 
