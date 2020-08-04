@@ -15,6 +15,8 @@
 ## Limitations
 - Not reflective of true tax paid by different income groups
   - Omits capital gains tax, sales tax, property tax, and tax loopholes (among other factors)
+  - Does not compute effective tax rate
+
 
 ## Results
 ![image](https://user-images.githubusercontent.com/6019805/89320873-179b4180-d650-11ea-9d52-50f91ef00dae.png)
