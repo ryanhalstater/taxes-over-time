@@ -27,5 +27,3 @@
 ![image](https://user-images.githubusercontent.com/6019805/89320927-2e419880-d650-11ea-9ea3-460b2f39eebf.png)
 ![image](https://user-images.githubusercontent.com/6019805/89321000-57fabf80-d650-11ea-9dde-0d63f2c690a5.png)
 ![image](https://user-images.githubusercontent.com/6019805/89322172-dc9a0d80-d651-11ea-91e2-1e9bd0b3a09f.png)
-<br/>
-Please note that the Married Filing Jointly tax filing status data was not available between 1949 and 1954.
